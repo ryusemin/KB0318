@@ -1,0 +1,14 @@
+.label {
+  display: block;
+}
+.submit {
+  display: block;
+  margin-top: 20px;
+  background-color: skyblue;
+  border-radius: 5px 5px 5px 5px;
+}
+.input {
+  height: 25px;
+  width: 200px;
+  margin: 10px 10px;
+}
